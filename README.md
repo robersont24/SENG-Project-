@@ -19,13 +19,18 @@ RESTful API:
 The service exposes well-documented endpoints for managing food entries and daily calorie logs. Each route includes defined request/response (JSON) formats, HTTP status codes, and input validation to ensure accurate and reliable data handling.
 
 Language: Python
+
 Framework: FastAPI
 
 Database:
 CLoud SQL stores and manage data, including meals, calorie counts, and timestamps. The API supports full CRUD functionality:
+
   Create new food entries
+  
   Retrieve daily or historical logs
+  
   Update existing entries
+  
   Delete logged items
 
 Cloud Deployment (GCP):
