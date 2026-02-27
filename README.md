@@ -37,7 +37,3 @@ IAM roles are set to least privilege, and secrets (database credentials) are man
 
 Baseline Operations:
 Basic logging is implemented to support debugging and monitoring through GCP Cloud tools. 
-
-Code:<br>
-Documentation:<br>
-Testing:
