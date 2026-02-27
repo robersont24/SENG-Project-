@@ -2,7 +2,7 @@
 REST API 
 
 # Project Title:
-***
+CalPal
 
 # Team Members:
 - Nada Algafni
