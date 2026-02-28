@@ -37,3 +37,6 @@ IAM roles are set to least privilege, and secrets (database credentials) are man
 
 Baseline Operations:
 Basic logging is implemented to support debugging and monitoring through GCP Cloud tools. 
+
+# Architecture Diagram:
+![image of the CalPal Architecure Diagram](CalPal_ArchDiagram.png)
